@@ -62,12 +62,12 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kvi1312&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kai261199&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvi1312/kvi1312/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvi1312/kvi1312/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kvi1312/kvi1312/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake.svg" />
 </picture>
