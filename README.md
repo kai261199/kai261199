@@ -62,7 +62,7 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kai261199&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kai261199)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
